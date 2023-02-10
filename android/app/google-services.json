@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361963500971",
+    "project_id": "talita-new-app-d79ac",
+    "storage_bucket": "talita-new-app-d79ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361963500971:android:36c7e4189adb165d290eee",
+        "android_client_info": {
+          "package_name": "com.talitakushanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361963500971-jo39ql5uh43mbefijt32cm73lq1d4nud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talitakushanapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "361963500971-1m6vgs99f9qkc4fm0a7vr5dtkf98uq48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADKHwS069GlkE-gKwnfRpSdCZBolJmFXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361963500971-1m6vgs99f9qkc4fm0a7vr5dtkf98uq48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
